@@ -1,0 +1,25 @@
+        If txtFilePath1.TextLength > 1 Then
+
+            If lines.Length = 13 Then
+
+                If chkBestbuy3080.Checked = True Then
+                    Process.Start("cmd", String.Format(file_path3080fe, file_path3080evga))
+                End If
+
+                'If chkBestbuyps5.Checked = True Then
+
+                'End If
+
+                'If txtYeezy.TextLength > 1 Then
+
+                'End If
+
+            Else
+                MessageBox.Show("More information required!", "Missing Information",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information)
+            End If
+
+        Else
+            MessageBox.Show("Please enter in Python file path!", "Missing Information",
+                            MessageBoxButtons.OK, MessageBoxIcon.Information)
+        End If

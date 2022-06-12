@@ -1,0 +1,12 @@
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\bin\Debug\Scalping Bot GUI.exe.config
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\bin\Debug\Scalping Bot GUI.exe
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\bin\Debug\Scalping Bot GUI.pdb
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\bin\Debug\Scalping Bot GUI.xml
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.vbprojAssemblyReference.cache
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping_Bot_GUI.frmScalper.resources
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping_Bot_GUI.Resources.resources
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.vbproj.GenerateResource.cache
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.vbproj.CoreCompileInputs.cache
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.exe
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.xml
+H:\Scalping Bot\Scalping Bot GUI Solution\Scalping Bot GUI\obj\Debug\Scalping Bot GUI.pdb

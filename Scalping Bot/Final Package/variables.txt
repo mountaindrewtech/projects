@@ -1,0 +1,13 @@
+first
+last
+email
+pass
+phone
+address
+city
+state
+zip
+card
+exp month
+exp year 
+3 funny numbers
